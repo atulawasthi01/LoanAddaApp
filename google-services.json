@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "382460809391",
+    "project_id": "loanadda-1513156581015"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382460809391:android:b8c6f6c662b390e3",
+        "android_client_info": {
+          "package_name": "com.addventure.loanadda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382460809391-1mrsevnhd23si8527jfcir2ghr7p7qvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.addventure.loanadda",
+            "certificate_hash": "08a1f14bd657fb02c4508e51d7b29fb22f2a4b89"
+          }
+        },
+        {
+          "client_id": "382460809391-rmbg2e12jesrthgih2s8ctoe05qn0v7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI17qd2tYwwjbljoc_qSVGuTuoXnFdAhE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
